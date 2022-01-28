@@ -5,8 +5,6 @@ I am Software Engineer with a passion for infrastructure, cloud security and new
 
 My Blog: https://igorzhivilo.com
 
-[Upwork Profile](https://www.upwork.com/freelancers/warolv) for consulting gigs
-
 - 🔭 I’m currently doing some research around EKS with Fargate, working on interesting Serverless projects.
 - 🌱 I’m always trying to improve my DevOps | k8s | AWS skills. 
 - 👯 I’m looking to collaborate on interesting projects, try interesting new technologies.

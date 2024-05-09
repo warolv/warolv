@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Igor.
 DevOps tech lead at Cynerio.
 
-Enjoy to build and break things.
+Enjoy to build infrastructire and also to break.
 
 Passionate about k8s, cloud & cyber security 
 
